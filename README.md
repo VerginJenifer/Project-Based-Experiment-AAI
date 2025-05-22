@@ -33,7 +33,9 @@ print(negative_feedback)
 ```
 
 <H3>Output:</H3>
-![image]("C:\Users\admin\OneDrive\Pictures\pross.png")
+
+![Uploading image.png…]()
+
 
 <H3>Inference:</H3>
 Thus sentiment analysis using your Facebook data ias done and filtering the data that has only negative feedback for the code is done.
