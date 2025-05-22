@@ -34,7 +34,7 @@ print(negative_feedback)
 
 <H3>Output:</H3>
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f91ef2bd-a108-454a-a014-1b93b94b06e6)
 
 
 <H3>Inference:</H3>
